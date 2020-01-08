@@ -1,0 +1,24 @@
+.my-navbar {
+  background-color: #112;
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 24px;
+  padding: 15px;
+  height: 7vh;
+}
+
+.my-navbar a {
+  color: steelblue;
+  outline: none;
+}
+
+.my-navbar a:hover {
+  transition: 0.3s;
+  text-decoration: none;
+  color: lightskyblue;
+}
+
+.active {
+  color: lightskyblue !important;
+  border-bottom: 2px lightskyblue solid;
+}

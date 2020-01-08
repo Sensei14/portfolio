@@ -1,0 +1,85 @@
+.home {
+  font-size: 24px;
+  color: aliceblue;
+}
+
+.about > div p {
+  width: 70%;
+  /* margin: 10px auto; */
+}
+
+.title {
+  font-size: 31px;
+  color: lightblue;
+  border-radius: 25px;
+  padding: 5px 100px;
+  margin: 20px auto;
+  box-shadow: 1px 1px 10px lightskyblue;
+  width: fit-content;
+}
+.about {
+  background-color: #112;
+  border-bottom: 1px aliceblue solid;
+  border-top: 1px aliceblue solid;
+  padding: 25px;
+}
+
+.about > div {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+.about img {
+  border: 2px SteelBlue outset;
+  border-radius: 25px;
+  display: block;
+}
+
+.tech {
+  background-color: #112;
+  padding: 25px;
+  border-bottom: 1px aliceblue solid;
+}
+
+.tech img {
+  margin: auto 15px;
+}
+
+.contact {
+  padding: 25px;
+  background-color: #112;
+  color: whitesmoke;
+  margin: auto;
+  font-size: 23px;
+}
+
+.contact div {
+  padding: 7px 25px;
+  width: max-content;
+  margin: 25px auto;
+  border-radius: 25px;
+  box-shadow: 1px 1px 10px #223 inset;
+}
+
+.contact span:nth-child(1) {
+  color: gainsboro;
+  font-style: normal;
+  font-weight: 600;
+  margin-right: 15px;
+}
+
+.contact span {
+  color: orangered;
+  font-style: italic;
+  margin: 10px;
+}
+
+.contact a {
+  text-decoration: none;
+  color: lightskyblue;
+}
+
+.contact a:hover {
+  text-decoration: none;
+}

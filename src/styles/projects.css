@@ -1,0 +1,40 @@
+.projects {
+  border-top: 1px aliceblue solid;
+  background-color: #112;
+  color: aliceblue;
+}
+
+.projects .active {
+  border: none;
+}
+
+.single-project {
+  padding: 25px;
+  border-bottom: 1px aliceblue solid;
+}
+
+.single-project:last-child {
+  border: none;
+}
+
+.carousel {
+  width: 70%;
+  margin: auto;
+}
+
+.project-title {
+  display: block;
+  font-size: 31px;
+  color: lightblue;
+  border-radius: 25px;
+  padding: 5px 100px;
+  margin: 10px auto 50px auto;
+  box-shadow: 1px 1px 10px lightskyblue;
+  width: fit-content;
+}
+
+.project-title:hover {
+  text-decoration: none;
+  box-shadow: 1px 1px 10px orange;
+  color: orange;
+}

@@ -1,5 +1,12 @@
 export const projects = [
   {
+    title: "BazaPrzepisów",
+    description: 'Strona z przepisami kulinarnymi',
+    img: [`recipes1.png`,`recipes2.png`,`recipes3.png`,`recipes4.png`,`recipes5.png`],
+    imgSize: '750px',
+    link: "https://github.com/Sensei14/recipes-app-front"
+  },
+  {
     title: "QuEasy",
     description: "Quiz mobilny",
     img: [`QuEasy1.jpg`, `QuEasy2.jpg`],
@@ -36,7 +43,7 @@ export const projects = [
   {
     title: "WeatherApp",
     description: "Aplikacja pogodowa",
-    img: [`weather1.png`, `weather2.png`],
+    img: [`weather1.png`, `weather2.png`, `weather3.png`],
     imgSize: "500px",
     link: "https://github.com/Sensei14/WeatherApp"
   },

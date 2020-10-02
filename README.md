@@ -1,1 +1,2 @@
-https://sensei14.github.io/portfolio/
+https://sensei14.github.io/
+

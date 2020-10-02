@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fc11df4d551a645e6520a28d6bc0eb85",
+    "revision": "fff84f647d0b86824edef34ccf2e2499",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "d0d6aa434fd12eba7b22",
+    "revision": "226bbe13bee8b93542b9",
     "url": "/portfolio/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "f3ef09edd636f5eab170",
-    "url": "/portfolio/static/css/main.f52bfaaa.chunk.css"
+    "revision": "9595103b0a86d7d6b38e",
+    "url": "/portfolio/static/css/main.26bfb6cf.chunk.css"
   },
   {
-    "revision": "d0d6aa434fd12eba7b22",
-    "url": "/portfolio/static/js/2.1babe821.chunk.js"
+    "revision": "226bbe13bee8b93542b9",
+    "url": "/portfolio/static/js/2.bed474be.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "/portfolio/static/js/2.1babe821.chunk.js.LICENSE"
+    "url": "/portfolio/static/js/2.bed474be.chunk.js.LICENSE"
   },
   {
-    "revision": "f3ef09edd636f5eab170",
-    "url": "/portfolio/static/js/main.21d3c09c.chunk.js"
+    "revision": "9595103b0a86d7d6b38e",
+    "url": "/portfolio/static/js/main.bc109944.chunk.js"
   },
   {
     "revision": "e139b2548d94e481a5d0",
@@ -100,16 +100,40 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/react.80687d23.png"
   },
   {
+    "revision": "22df5240275c8ba19656f3383886ae94",
+    "url": "/portfolio/static/media/recipes1.22df5240.png"
+  },
+  {
+    "revision": "ae723d47a39edb1c1cb611b39d75e7c1",
+    "url": "/portfolio/static/media/recipes2.ae723d47.png"
+  },
+  {
+    "revision": "4bf9e2be384e807e7065d07e2537eaa4",
+    "url": "/portfolio/static/media/recipes3.4bf9e2be.png"
+  },
+  {
+    "revision": "73f45e20eed9a1edc6579e6c597dcac1",
+    "url": "/portfolio/static/media/recipes4.73f45e20.png"
+  },
+  {
+    "revision": "4d3e0d8aef773ebdc610753179576056",
+    "url": "/portfolio/static/media/recipes5.4d3e0d8a.png"
+  },
+  {
     "revision": "8539cc4970d5b2b5a89ca0659196d506",
     "url": "/portfolio/static/media/todo.8539cc49.png"
   },
   {
-    "revision": "0226ff06673fda34217579dd78120a1c",
-    "url": "/portfolio/static/media/weather1.0226ff06.png"
+    "revision": "a58ef580b4b8643d1079f4f9654afb3a",
+    "url": "/portfolio/static/media/weather1.a58ef580.png"
   },
   {
-    "revision": "a5e1946185d8d7e99e37d3693ccc0c17",
-    "url": "/portfolio/static/media/weather2.a5e19461.png"
+    "revision": "ba6b360d976157a9a8915df9158ff784",
+    "url": "/portfolio/static/media/weather2.ba6b360d.png"
+  },
+  {
+    "revision": "9ec65f62d4b1ba6325df3bd57eb0a3c9",
+    "url": "/portfolio/static/media/weather3.9ec65f62.png"
   },
   {
     "revision": "c8a3e59b298708173fe8daf831d486b2",
